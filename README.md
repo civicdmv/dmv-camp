@@ -1,33 +1,24 @@
-# [PROJECTNAME]
+# DMV Camp
 
 ## About
 
 This is a [CivicDMV](https://civicdmv.org) project aimed at [ADD OBJECTIVE HERE].
 
-## Demo
+## Planning
 
-Demo website: https://civicdmv.github.io/PROJECTNAME
+[Planning doc](https://docs.google.com/document/d/15wdCjNEeRl3dwCMsme5vshZTkfPCnimVgBnFqRVNHHk/edit?usp=sharing)
 
 ## Connect
 
-* Slack: [#project-PROJECTNAME](#)
+* Slack: [#project-dmv-camp](#)
 
 ## Contribute
 
 See [Contributions](contributing.md).
 
-## Tech/frameworks
-
-* abc
-* xyz
-
-## Design principles
-
-See the [CivicDMV design principles](https://civicdmv-handbook.readthedocs.io/en/latest/principles/) that guide the work we do.
-
 ## Product owner
 
-[Firstname Lastname](https://github.com/USERNAME)
+[Luke Fretwell](https://github.com/lukefretwell)
 
 ## License
 
