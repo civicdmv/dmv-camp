@@ -6,7 +6,8 @@ This is a [CivicDMV](https://civicdmv.org) project aimed at bringing DMV enthusi
 
 ## Planning
 
-[Planning doc](https://docs.google.com/document/d/15wdCjNEeRl3dwCMsme5vshZTkfPCnimVgBnFqRVNHHk/edit?usp=sharing)
+* [Planning doc](https://docs.google.com/document/d/15wdCjNEeRl3dwCMsme5vshZTkfPCnimVgBnFqRVNHHk/edit?usp=sharing)
+* [Project board](https://github.com/civicdmv/dmv-camp/projects/1)
 
 ## Connect
 
