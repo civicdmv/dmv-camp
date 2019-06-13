@@ -9,6 +9,10 @@ This is a [CivicDMV](https://civicdmv.org) project aimed at bringing DMV enthusi
 * [Planning doc](https://docs.google.com/document/d/15wdCjNEeRl3dwCMsme5vshZTkfPCnimVgBnFqRVNHHk/edit?usp=sharing)
 * [Project board](https://github.com/civicdmv/dmv-camp/projects/1)
 
+## Website
+
+[civicdmv.org/camp](https://civicdmv.org/camp)
+
 ## Connect
 
 * Slack: [#project-dmv-camp](https://civicdmv.slack.com/messages/CKDUKKZGW/)
