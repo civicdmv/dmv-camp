@@ -10,7 +10,7 @@ This is a [CivicDMV](https://civicdmv.org) project aimed at [ADD OBJECTIVE HERE]
 
 ## Connect
 
-* Slack: [#project-dmv-camp](#)
+* Slack: [#project-dmv-camp](https://civicdmv.slack.com/messages/CKDUKKZGW/)
 
 ## Contribute
 
