@@ -2,7 +2,7 @@
 
 ## About
 
-This is a [CivicDMV](https://civicdmv.org) project aimed at [ADD OBJECTIVE HERE].
+This is a [CivicDMV](https://civicdmv.org) project aimed at bringing DMV enthusiasts together and re-imagine how the Department of Motor Vehicles can best serve the public.
 
 ## Planning
 
